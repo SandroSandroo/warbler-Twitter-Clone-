@@ -21,3 +21,4 @@ Python3 and Flask SQLAlchemy as a database ORM Database using PostgreSQL
  <li>python3 -m flask run</li>
 </ul>
 
+![Wabler cover photo](static/images/warbler.png)
